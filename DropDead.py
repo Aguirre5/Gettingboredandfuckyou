@@ -28,3 +28,13 @@ server.add(customer2)
 server.add(customer3)
 
 server.sending(f"Hello pipolll It's a server's world and you're lucky to be livin' in it.")
+
+"""
+The Server device is ready to be connected with Customer 1
+The Server device is ready to be connected with Customer 2
+The Server device is ready to be connected with Customer 3
+Server's sending BOUNCE BOUNCE BOUNCE: Hello pipolll It's a server's world and you're lucky to be livin' in it.
+Customer 1 recibió mensaje de Server: Hello pipolll It's a server's world and you're lucky to be livin' in it.
+Customer 2 recibió mensaje de Server: Hello pipolll It's a server's world and you're lucky to be livin' in it.
+Customer 3 recibió mensaje de Server: Hello pipolll It's a server's world and you're lucky to be livin' in it.
+"""
